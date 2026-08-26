@@ -1,2 +1,7 @@
-#關於我們
-#關於本團隊
+On branch feature/rename-title
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   about.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
